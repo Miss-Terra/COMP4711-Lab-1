@@ -45,7 +45,7 @@ and open the template in the editor.
             $third->add_grade(100);
             $third->add_grade(100);
             $third->add_grade(100);
-            $students['a456'] = $third;
+            $students['a433'] = $third;
             
             
             
